@@ -23,7 +23,7 @@ Tujuan pada penelitian ini adalah:
 
 
 ## Dataset
-Dataset yang digunakan berasal dari GEO (Gene Expression Omnibus) yang didapatkan dari website basis data bioteknologi NCBI (National Center of Biotechnology Information). Data seri yang digunakan adalah GSE4115, berisi data ekspresi gen dari perokok yang diduga memiliki kanker paru-paru. Data tersebut memiliki 187 sampel pasien dengan hasil diagnosis 97 pasien memiliki kanker paru-paru dan 90 pasien tidak memiliki kanker paru-paru. Dilakukan pemisahan (split) data menjadi data latih dan juga data uji. Data latih memiliki proporsi sebanyak 80% sedangkan data uji memiliki proporsi sebanyak 20%.
+Dataset yang digunakan berasal dari GEO (Gene Expression Omnibus) yang didapatkan dari website basis data bioteknologi NCBI (National Center of Biotechnology Information). Data seri yang digunakan adalah GSE4115, berisi data ekspresi gen dari perokok yang diduga memiliki kanker paru-paru. Data tersebut memiliki 187 sampel pasien dengan hasil diagnosis 97 pasien memiliki kanker paru-paru dan 90 pasien tidak memiliki kanker paru-paru. Dilakukan pemisahan (split) data menjadi data latih dan juga data uji. Data latih memiliki proporsi sebanyak 70% sedangkan data uji memiliki proporsi sebanyak 30%.
 
 Source : https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE4115
 
